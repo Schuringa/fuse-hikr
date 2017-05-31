@@ -1,0 +1,69 @@
+dependencies: \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Float2.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Object.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Int2.h \
+  /Users/jordans/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/Exception.h \
+  /Users/jordans/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/Vector2.h \
+  /Users/jordans/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/String.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno/Support.h \
+  /Users/jordans/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/Config.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno/_config.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno/Memory.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno/ObjectModel.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno/Uno.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/hikr/hikr-Prefix.pch \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/src/Fuse.Selection.g.cpp \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Diagnostics.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.IArray.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Marshal.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Node.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Binding.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.INotifyUnrooted.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.IProperties.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Scripting.IScriptObject.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Collections.ICollection-1.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Collections.IEnumerable-1.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Collections.IList-1.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.UX.PropertyObject.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.UX.Selector.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Reactive.IObservable.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Reactive.ISubscription.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.IDisposable.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Scripting.Context.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Scripting.ExecutionThread.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Int.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Scripting.ScriptClass.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Scripting.ScriptMember.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Scripting.ScriptMethod-1.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Scripting.ScriptMethod.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Selection.Select-30798591.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Selection.Select-94349afa.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Selection.Selectable.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Behavior.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Selection.Selection.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Reactive.IObserver.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Selection.Selection.How.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Selection.SelectMode.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Selection.ToggleSelection.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Triggers.Actions-fcab7e57.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Visual.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Internal.MiniList-1.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.LayoutParams.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Visual.InteractionItem.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.UX.IPropertyListener.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Float4.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Float4x4.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Rect.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Action-3.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Delegate.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Bool.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Collections.List-1.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Collections.List--251bdc7d.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Collections.IEnumerator.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Collections.IEnumerator-1.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.EventArgs.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.EventHandler.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Exception.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.String.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Type.h

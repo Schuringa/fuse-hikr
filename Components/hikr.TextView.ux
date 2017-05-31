@@ -1,0 +1,3 @@
+<TextView ux:Class="hikr.TextView" TextColor="#ffffff" CaretColor="#ffffff" Padding="5" Value="{comments}" TextWrapping="Wrap">
+    <Rectangle Layer="Background" Color="#fff2" CornerRadius="4" />
+</TextView>

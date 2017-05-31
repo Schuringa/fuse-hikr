@@ -1,0 +1,60 @@
+dependencies: \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Float2.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Object.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Int2.h \
+  /Users/jordans/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/Exception.h \
+  /Users/jordans/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/Vector2.h \
+  /Users/jordans/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/String.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno/Support.h \
+  /Users/jordans/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/Config.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno/_config.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno/Memory.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno/ObjectModel.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno/Uno.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/hikr/hikr-Prefix.pch \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/src/Fuse.iOS.Bindings.g.cpp \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/_root.FuseControls_bundle.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.DrawContext.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Int4.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.iOS.Bindings.Blitter.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Float4x4.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Runtime.Implement-476e2792.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.iOS.Bindings.CGC-1303de24.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.iOS.Bindings.CGContextRef.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.IRenderViewport.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.ICommonViewport.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Visual.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Binding.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.INotifyUnrooted.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Internal.MiniList-1.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Collections.ICollection-1.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Collections.IEnumerable-1.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Collections.IList-1.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.IProperties.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.LayoutParams.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Node.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Scripting.IScriptObject.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.UX.PropertyObject.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.UX.Selector.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Fuse.Visual.InteractionItem.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.UX.IPropertyListener.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Float4.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Rect.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Bool.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Buffer.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Float.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Graphics.BlendOperand.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Int.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Graphics.BufferUsage.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Graphics.PolygonFace.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Graphics.SamplerState.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Graphics.Texture2D.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.IDisposable.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Graphics.VertexAt-4a875e1d.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Graphics.VertexBuffer.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Graphics.DeviceBuffer.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.IntPtr.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Matrix.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Runtime.Implement-6e9df330.h \
+  /Users/jordans/code/research/fuse/hikr/build/iOS/Debug/include/Uno.Runtime.Implement-81e7ab4c.h

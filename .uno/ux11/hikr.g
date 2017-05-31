@@ -1,0 +1,12 @@
+.uno/ux11/MainView.g.uno
+.uno/ux11/hikr.Button.g.uno
+.uno/ux11/hikr.Page.g.uno
+.uno/ux11/hikr.Text.g.uno
+.uno/ux11/hikr.TextBox.g.uno
+.uno/ux11/hikr.TextView.g.uno
+.uno/ux11/EditHikePage.g.uno
+.uno/ux11/TitleText.g.uno
+.uno/ux11/HomePage.g.uno
+.uno/ux11/Separator.g.uno
+.uno/ux11/SplashPage.g.uno
+.uno/ux11/hikr.unoproj.g.uno
